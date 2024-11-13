@@ -378,5 +378,8 @@ export class DescriptionsItem extends ElDescriptionsItem {}
 /** Result Component */
 export class Result extends ElResult {}
 
+/** Statistic Component */
+export class Statistic extends ElStatistic {}
+
 /** ChatMessage Component */
 export class ChatMessage extends ElChatMessage {}
